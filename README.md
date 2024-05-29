@@ -25,9 +25,10 @@ The objective of this project is to demonstrate the implementation of object det
 2. Install the required dependencies/library.
 
 ## Results
-![Object Detection Screenshot1]([screenshot.png](https://github.com/sanu0711/Object-Detection-using-the-YOLO-model/blob/main/Results/Screenshot%202024-05-29%20134831.png))
-![Object Detection Screenshot](https://github.com/sanu0711/Object-Detection-using-the-YOLO-model/blob/main/Results/Screenshot%202024-05-29%20134859.png)
-![Object Detection Screenshot](https://github.com/sanu0711/Object-Detection-using-the-YOLO-model/blob/main/Results/Screenshot%202024-05-29%20134918.png)
+![Object Detection Screenshot1](https://github.com/sanu0711/Object-Detection-using-the-YOLO-model/blob/main/Results/Screenshot%202024-05-29%20134831.png)
+
+![Object Detection Screenshot2](https://github.com/sanu0711/Object-Detection-using-the-YOLO-model/blob/main/Results/Screenshot%202024-05-29%20134859.png)
+![Object Detection Screenshot3](https://github.com/sanu0711/Object-Detection-using-the-YOLO-model/blob/main/Results/Screenshot%202024-05-29%20134918.png)
 
 
 ## References
